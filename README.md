@@ -29,6 +29,8 @@ The objective was to train on one desert environment and evaluate on a novel but
 Validation mIoU: **0.6204**
 
 The model demonstrates strong generalization across unseen desert terrain scenes.
+<img width="1016" height="767" alt="image" src="https://github.com/user-attachments/assets/a7dcb519-1802-4710-8fd1-f342efb2db35" />
+
 
 ---
 
@@ -61,14 +63,6 @@ Potential Improvements:
 
 ---
 
-## 📂 Repository Structure
-
-models/ → trained weights  
-outputs/ → predictions and training visuals  
-src/ → training & inference scripts  
-reports/ → hackathon documentation  
-
----
 
 ## 🚀 Reproducing Results
 
