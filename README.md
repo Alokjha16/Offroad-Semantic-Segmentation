@@ -46,6 +46,9 @@ The model demonstrates strong generalization across unseen desert terrain scenes
 - Reduced learning rate after plateau
 - Early stopping based on validation IoU
 - Model checkpointing on best IoU
+---
+<img width="1064" height="702" alt="Screenshot 2026-03-01 025835" src="https://github.com/user-attachments/assets/315c671b-8166-487e-9d64-a7bc920159ae" />
+
 
 ---
 
