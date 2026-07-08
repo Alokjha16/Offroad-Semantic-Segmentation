@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Overview./
+## 📌 Project Overview./.
 
 This project focuses on training a robust semantic segmentation model for off-road autonomy using synthetic desert digital twin data provided by Duality AI.
 
