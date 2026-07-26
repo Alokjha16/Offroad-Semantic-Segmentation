@@ -1,4 +1,4 @@
-# 🚜 Offroad Semantic Scene Segmentation  /
+# 🚜 Offroad Semantic Scene Segmentation  /.
 ### Ignitia Hackathon – Duality AI Falcon Dataset  
 
 ---
